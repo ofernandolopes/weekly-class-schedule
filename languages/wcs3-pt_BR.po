@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weekly Class Schedule v3.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-13 04:27-0300\n"
+"PO-Revision-Date: 2014-02-13 04:42-0300\n"
+"Last-Translator: Rafael Funchal <rafaelfunchal@gmail.com>\n"
+"Language-Team: Rafael Funchal <contato@rafaelfunchal.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ wcs3
+#: ../wcs.php:111
+msgid "Classes"
+msgstr "Aulas"
+
+# @ wcs3
+#: ../wcs.php:112 ../includes/wcs3_admin.php:63
+#: ../includes/wcs3_schedule.php:19
+msgid "Class"
+msgstr "Aula"
+
+# @ wcs3
+#: ../wcs.php:123
+msgid "Instructors"
+msgstr "Instrutores"
+
+# @ wcs3
+#: ../wcs.php:124 ../includes/wcs3_admin.php:67
+#: ../includes/wcs3_schedule.php:20
+msgid "Instructor"
+msgstr "Instrutor"
+
+# @ wcs3
+#: ../wcs.php:135
+msgid "Locations"
+msgstr "Localizações"
+
+# @ wcs3
+#: ../wcs.php:136 ../includes/wcs3_admin.php:71
+#: ../includes/wcs3_schedule.php:21
+msgid "Location"
+msgstr "Localização"
+
+# @ wcs3
+#: ../wcs.php:149 ../includes/wcs3_admin.php:58
+msgid "Schedule Management"
+msgstr "Gerenciamento de Agenda"
+
+# @ wcs3
+#: ../wcs.php:150
+msgid "Schedule"
+msgstr "Agenda"
+
+# @ wcs3
+#: ../wcs.php:157 ../wcs.php:158
+msgid "Options"
+msgstr "Opções"
+
+# @ wcs3
+#: ../wcs.php:165 ../wcs.php:166 ../includes/wcs3_admin.php:128
+msgid "Import/Update"
+msgstr "Importar/Atualizar"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:24
+msgid "Error"
+msgstr "Erro"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:25 ../includes/wcs3_admin.php:97
+msgid "Add Item"
+msgstr "Adicionar item"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:26
+msgid "Save Item"
+msgstr "Salvar item"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:27
+msgid "Exit edit mode"
+msgstr "Sair do modo de edição"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:28
+msgid "Edit Mode"
+msgstr "Modo de Edição"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:29
+msgid "Are you sure you want to delete this entry?"
+msgstr "Você tem certeza que deseja apagar essa informação?"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:30
+msgid ""
+"Are you sure you want to to this? This will delete all data added after "
+"updating to version 3."
+msgstr ""
+"Você tem certeza que quer fazer isso? Todas as informações adicionadas após "
+"a atualização para a versão 3 serão apagadas."
+
+# @ wcs3
+# @ default
+#: ../includes/wcs3_admin.php:75 ../includes/wcs3_ajax.php:323
+msgid "Day"
+msgstr "Dia"
+
+# @ wcs3
+# @ default
+#: ../includes/wcs3_admin.php:79 ../includes/wcs3_ajax.php:56
+msgid "Start Hour"
+msgstr "Início"
+
+# @ wcs3
+# @ default
+#: ../includes/wcs3_admin.php:83 ../includes/wcs3_ajax.php:58
+msgid "End Hour"
+msgstr "Término"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:87 ../includes/wcs3_schedule.php:24
+msgid "Visibility"
+msgstr "Visibilidade"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:91
+msgid "Notes"
+msgstr "Notas"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:125
+msgid ""
+"Click the button below to import the data from Weekly Class Schedule 2.x."
+msgstr ""
+"Clique no botão abaixo para importar o conteúdo da versão 2.x do plugin."
+
+# @ default
+#: ../includes/wcs3_admin.php:126
+msgid "WARNING:"
+msgstr "AVISO:"
+
+# @ default
+#: ../includes/wcs3_admin.php:126
+msgid "All data added after updating to version 3 will be deleted."
+msgstr ""
+"Todo o conteúdo adicionado após a atualização para a versão 3 será apagado."
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:188 ../includes/wcs3_schedule.php:97
+msgid "Hidden"
+msgstr "Escondido"
+
+# @ wcs3
+# @ default
+#: ../includes/wcs3_admin.php:189 ../includes/wcs3_ajax.php:60
+#: ../includes/wcs3_schedule.php:97
+msgid "Visible"
+msgstr "Visível"
+
+# @ wcs3
+#: ../includes/wcs3_admin.php:203
+msgid "All Locations"
+msgstr "Todos os locais"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:13
+msgid "Nonce verification failed. Please report this to the site administrator"
+msgstr "A verificação falhou. Por favor, informe o administrador do site."
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:43
+msgid "Schedule entry added successfully"
+msgstr "Aula adicionada com sucesso na agenda"
+
+# @ default
+#: ../includes/wcs3_ajax.php:52
+msgid "Class ID"
+msgstr "ID da aula"
+
+# @ default
+#: ../includes/wcs3_ajax.php:53
+msgid "Instructor ID"
+msgstr "ID do instrutor"
+
+# @ default
+#: ../includes/wcs3_ajax.php:54
+msgid "Location ID"
+msgstr "ID do local"
+
+# @ default
+#: ../includes/wcs3_ajax.php:55
+msgid "Weekday"
+msgstr "Dia da semana"
+
+# @ default
+#: ../includes/wcs3_ajax.php:57
+msgid "Start Minute"
+msgstr "Minuto inicial"
+
+# @ default
+#: ../includes/wcs3_ajax.php:59
+msgid "End Minute"
+msgstr "Minuto final"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:148
+msgid "Location is not available at this time"
+msgstr "Localização não está disponível no momento."
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:152
+msgid "Instructor is not available at this time"
+msgstr "Instrutor não está disponível no momento."
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:157
+msgid "A class cannot start before it ends"
+msgstr "Uma aula não pode iniciar após seu fim."
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:204
+msgid "Failed to update schedule entry"
+msgstr "Falha ao atualizar a aula na agenda"
+
+# @ default
+#: ../includes/wcs3_ajax.php:208
+msgid "Schedule entry updated successfully"
+msgstr "Aula atualizada com sucesso na agenda"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:229
+msgid "Failed to add schedule entry"
+msgstr "Erro ao adicionar a aula na agenda"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:250
+msgid "Schedule entry deleted successfully"
+msgstr "Aula apagada com sucesso da agenda"
+
+# @ default
+#: ../includes/wcs3_ajax.php:256 ../includes/wcs3_ajax.php:290
+msgid "Row ID"
+msgstr "ID da linha"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:266
+msgid "Failed to delete entry"
+msgstr "Erro ao apagar a informação"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:317
+msgid "Day schedule retrieved successfully"
+msgstr "Agenda carregada com sucesso"
+
+# @ wcs3
+#: ../includes/wcs3_ajax.php:362
+msgid "Weekly Class Schedule 2.x data imported successfully."
+msgstr "Conteúdo da Agenda de Aula Semana 2.x importado com sucesso. "
+
+# @ default
+#: ../includes/wcs3_output.php:63
+msgid "Unsupported layout"
+msgstr "Layout nao suportado"
+
+# @ default
+#: ../includes/wcs3_output.php:100 ../includes/wcs3_output.php:137
+msgid "No classes scheduled"
+msgstr "Nenhuma aula agendada"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:22
+msgid "Start"
+msgstr "Início"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:23
+msgid "End"
+msgstr "Fim"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:25
+msgid "Delete"
+msgstr "Apagar"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:26
+msgid "Edit"
+msgstr "Editar"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:37
+msgid "delete"
+msgstr "apagar"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:39
+msgid "edit"
+msgstr "editar"
+
+# @ wcs3
+#: ../includes/wcs3_schedule.php:50
+msgid "No classes"
+msgstr "Nenhuma aula"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:16
+msgid "Nonce verification failed"
+msgstr "A verificação falhou"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:19
+msgid "Options updated"
+msgstr "Opções atualizadas"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:49
+msgid "Weekly Class Schedule Settings"
+msgstr "Configurações da Agenda Semanal de Aulas"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:50
+msgid "Using Weekly Class Schedule"
+msgstr "Usando a Agenda Semanal de Aulas"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:52
+msgid ""
+"To display all the classes in a single schedule, simply enter the shortcode"
+msgstr ""
+"Para exibir todas as aulas em uma agenda única, simplesmente informe o "
+"shortcode."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:53
+msgid "inside a page or a post."
+msgstr "Dentro de uma página ou post."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:54
+msgid ""
+"It's also possible to output the schedule as a list using the list layout:"
+msgstr "Também é possível exibir a agenda como uma lista usando esse layout:"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:55
+msgid ""
+"In order to display a single location, use the location attribute like this:"
+msgstr "Para exibir apenas um local, use o atributo de localização assim:"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:56
+msgid ""
+"Where \"Classroom A\" is the name of the location as it appears in the "
+"database."
+msgstr ""
+"Onde \"Sala A\" é o mesmo nome da localização como inserida no banco de "
+"dados."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:60
+msgid "A finalized shortcode may look something like"
+msgstr "Um shortcode final deve se parecer com isso"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:64
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:68
+msgid "First day of week"
+msgstr "Primeiro dia da semana"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:69
+msgid "The day the schedule will start in"
+msgstr "O dia em que a agenda se iniciará"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:75
+msgid "Enable 24-hour mode"
+msgstr "Habilitar modo de 24 horas"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:76
+msgid ""
+"Enabling this will display all the hours on the front-end in a 24 hour clock "
+"mode as opposed to 12 hour clock mode (AM/PM)."
+msgstr ""
+"Ao habilitar essa exibição todos os horários serão exibidos no site no "
+"formato de 24 horas, ao invés de 12 horas (AM/PM)."
+
+# @ default
+#: ../includes/wcs3_settings.php:78 ../includes/wcs3_settings.php:85
+#: ../includes/wcs3_settings.php:92 ../includes/wcs3_settings.php:110
+msgid "Yes"
+msgstr "Sim"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:82
+msgid "Detect location collisions"
+msgstr "Detectar conflito de localização"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:83
+msgid ""
+"Enabling this feature will prevent scheduling of multiple classes at the "
+"same location at the same time."
+msgstr ""
+"Ao habilitar esse recurso, prevenirá que várias aulas sejam marcadas no "
+"mesmo lugar no mesmo horário."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:89
+msgid "Detect instructor collisions"
+msgstr "Detectar conflito de instrutor"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:90
+msgid ""
+"Enabling this feature will prevent the scheduling of an instructor for "
+"multiple classes at the same."
+msgstr ""
+"Ao habilitar esse recurso, prevenirá que vários instrutores sejam marcados "
+"em aulas diferentes no mesmo horário."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:96
+msgid "Class Details Template"
+msgstr "Modelo de detalhes da aula"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:97
+msgid ""
+"Use placholders to design the way the class details appear in the schedule. "
+"Certain HTML tags are allowed (to customize edit $wcs3_allowed_html in wcs."
+"php)."
+msgstr ""
+"Use placeholders para definir como os detalhes da aula devem aparecer na "
+"agenda. Algumas tags HTML são permitidas (para customizar, edite "
+"$wcs3_allowed_html em wcs.php)."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:99
+msgid "Available placholders:"
+msgstr "Placeholders disponíveis:"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:107
+msgid "Allow all HTML in notes"
+msgstr "Permitir todas tags HTML em notas"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:108
+msgid ""
+"Allow all HTML tags in notes field. PLEASE NOTE: Allowing all HTML tags has "
+"security implications so use at your own risk."
+msgstr ""
+"Permite todas as tags HTML no campo de notas. Note que, ao permitir todas as "
+"tags HTML trará problemas de segurança, logo, use por sua conta e risco."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:114
+msgid "Appearance Settings"
+msgstr "Configurações de exibição"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:118
+msgid "Base class"
+msgstr "Base para aula"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:119
+msgid "The default background color for classes in the schedule."
+msgstr "Cor de fundo padrão para classes na agenda."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:125
+msgid "Class details box"
+msgstr "Caixa de detalhes da aula"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:126
+msgid ""
+"Background color of the class details box which appears when hovering over a "
+"class."
+msgstr "Cor de fundo da caixa da aula exibida ao passar o mouse sobre a aula."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:132
+msgid "Text"
+msgstr "Texto"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:133
+msgid "Text color of schedule entries/classes."
+msgstr "Cor do texto da aula na agenda."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:139
+msgid "Border"
+msgstr "Borda"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:140
+msgid "This color is used for all borders in the schedule output."
+msgstr "Cor usada por todas as bordas da agenda."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:146
+msgid "Schedule headings color"
+msgstr "Cor dos cabeçalhos da agenda"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:147
+msgid "Text color of the schedule headings (weekdays, hours)."
+msgstr "Cor do texto dos cabeçalhos (dias da semana, horas)."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:153
+msgid "Schedule headings background"
+msgstr "Cor de fundo dos cabeçalhos da agenda"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:154
+msgid "Background color of the schedule headings (weekdays, hours)."
+msgstr "Cor do fundo dos cabeçalhos (dias da semana, horas)."
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:160
+msgid "Background"
+msgstr "Fundo"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:161
+msgid "Background color for the entire schedule."
+msgstr "Cor do fundo da agenda inteira"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:167
+msgid "qTip background"
+msgstr "Fundo qTip"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:168
+msgid "Background color of the qTip pop-up box."
+msgstr "Cor de fundo da caixa do qTip"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:174
+msgid "Links"
+msgstr "Links"
+
+# @ wcs3
+#: ../includes/wcs3_settings.php:175
+msgid "The color of the links which appear in the class details box."
+msgstr "Cores dos links que aparecem na caixa de detalhes das aulas."
+
+# @ default
+#: ../includes/wcs3_settings.php:181
+msgid "Save Settings"
+msgstr "Salvar configurações"
+
+# @ wcs3
+#: ../includes/wcs3_widgets.php:17
+msgid "WCS3 Today's Classes"
+msgstr "Aulas de Hoje"
+
+# @ default
+#: ../includes/wcs3_widgets.php:48 ../includes/wcs3_widgets.php:84
+msgid "No classes today"
+msgstr "Nenhuma aula hoje"
+
+# @ wcs3
+#: ../includes/wcs3_widgets.php:81
+msgid "Today's Classes"
+msgstr "Aulas de hoje"
+
+# @ wcs3
+#: ../includes/wcs3_widgets.php:89
+msgid "Title"
+msgstr "Título"
+
+# @ wcs3
+#: ../includes/wcs3_widgets.php:94
+msgid "Maximum Classes to Display"
+msgstr "Máximo de aulas a exibir"
+
+# @ wcs3
+#: ../includes/wcs3_widgets.php:96
+msgid "Maximum number of classes to display"
+msgstr "Número máximo de aulas a exibir"
+
+# @ wcs3
+#: ../includes/wcs3_widgets.php:106
+msgid "No entries message"
+msgstr "Mensagem de nenhuma aula"
